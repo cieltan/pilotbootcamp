@@ -106,4 +106,12 @@ Collaborative Workflow II | (07/16/2019)
 - [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
 - [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
 
+- [Reading for Tonight: Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+- [Reading for Tonight: Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+- [Reading for Tonight: Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
 - [Assignment #2](https://docs.google.com/document/d/1TktFgDGkfulvIo_UyS5TPrgf127wbBMi_85jq0VNQNc/edit?usp=sharing)
+
+**Class Session 4: DOM Manipulation and Chrome Developer Tools (07/18/2019)**
+
+- [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
