@@ -106,4 +106,4 @@ Collaborative Workflow II | (07/16/2019)
 - [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
 - [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
 
-- [Assignment #2]()
+- [Assignment #2](https://docs.google.com/document/d/1TktFgDGkfulvIo_UyS5TPrgf127wbBMi_85jq0VNQNc/edit?usp=sharing)
