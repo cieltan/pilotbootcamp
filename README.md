@@ -109,6 +109,7 @@ Collaborative Workflow II | (07/16/2019)
 - [Reading for Tonight: Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Reading for Tonight: Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Reading for Tonight: Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+- [Reading for Tonight: A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)(Exercises are encouraged if you have the time, but the exercises are optional and are for your own enrichment)
 
 - [Assignment #2](https://docs.google.com/document/d/1TktFgDGkfulvIo_UyS5TPrgf127wbBMi_85jq0VNQNc/edit?usp=sharing)
 
