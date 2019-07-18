@@ -38,9 +38,9 @@ Collaborative Workflow I | (07/15/2019)
 - Class Session 2:
 Collaborative Workflow II | (07/16/2019)
 
-- Class Session 3: JavaScript Basics and Advanced JS Topics | (07/17/2019)
+- Class Session 3: JavaScript Basics and Intermediate JS Topics | (07/17/2019)
 
-- Class Session 4: JavaScript DOM Manipulation I and Chrome Dev Tools | (07/18/2019)
+- Class Session 4: JavaScript DOM Manipulation I | (07/18/2019)
 
 - Class Session 5: JavaScript DOM Manipulation II | (07/19/2019)
 
@@ -92,7 +92,7 @@ Collaborative Workflow II | (07/16/2019)
 - [Introduction Slides](https://docs.google.com/presentation/d/1P31jGaBOcQlogrio5jF8Y7hCw8s4BLnTfxBO8yhdDKo/edit?usp=sharing)
 - [Git and Github Slides](https://docs.google.com/presentation/d/1L5kn5xmH_qqcPMkH933bHDEzTU1Eh51YSBFMKqickRI/edit?usp=sharing)
 
-- [Collaboration Workshop Assignment #1 - Donation/Cause Project]()
+- [Collaboration Workshop Assignment #1 - Donation/Cause Project](https://docs.google.com/document/d/1GRGpwc4O5acPUA8gKBUR9-n1dicupG7W_zsQZA-2crI/edit#)
 
 **Class Session 2: Git/Github/Collaborative Software Development II (07/16/2019)**
 
@@ -113,6 +113,17 @@ Collaborative Workflow II | (07/16/2019)
 
 - [Assignment #2](https://docs.google.com/document/d/1TktFgDGkfulvIo_UyS5TPrgf127wbBMi_85jq0VNQNc/edit?usp=sharing)
 
-**Class Session 4: DOM Manipulation and Chrome Developer Tools (07/18/2019)**
+**Class Session 4: DOM Manipulation I (07/18/2019)**
 
 - [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
+
+- [An Introduction to the DOM (Document Object Model) in JavaScript](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM with JavaScript](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [An Introduction to DOM Events with JavaScript](https://www.youtube.com/watch?v=QE1YQnhntgw&list=PLruo2gSoqlej-QjRW25c97socsRiAUVuf&index=10)
+
+- [Assignment #3](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit#)
+- [Assignment #4](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit#)
+
+**Class Session 5: DOM Manipulation II (07/19/2019)**
+
+- [Assignment #5]()
