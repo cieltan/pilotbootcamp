@@ -92,7 +92,7 @@ Collaborative Workflow II | (07/16/2019)
 - [Introduction Slides](https://docs.google.com/presentation/d/1P31jGaBOcQlogrio5jF8Y7hCw8s4BLnTfxBO8yhdDKo/edit?usp=sharing)
 - [Git and Github Slides](https://docs.google.com/presentation/d/1L5kn5xmH_qqcPMkH933bHDEzTU1Eh51YSBFMKqickRI/edit?usp=sharing)
 
-- [Collaboration Workshop Assignment #1 - Donation/Cause Project](https://docs.google.com/document/d/1GRGpwc4O5acPUA8gKBUR9-n1dicupG7W_zsQZA-2crI/edit#)
+- [Collaboration Workshop Assignment #1 - Donation/Cause Project](https://docs.google.com/document/d/1GRGpwc4O5acPUA8gKBUR9-n1dicupG7W_zsQZA-2crI/edit?usp=sharing)
 
 **Class Session 2: Git/Github/Collaborative Software Development II (07/16/2019)**
 
