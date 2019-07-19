@@ -126,4 +126,4 @@ Collaborative Workflow II | (07/16/2019)
 
 **Class Session 5: DOM Manipulation II (07/19/2019)**
 
-- [Assignment #5](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit#)
+- [Assignment #5](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
