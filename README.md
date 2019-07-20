@@ -127,3 +127,21 @@ Collaborative Workflow II | (07/16/2019)
 **Class Session 5: DOM Manipulation II (07/19/2019)**
 
 - [Assignment #5](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
+
+*Reading for the weekend*:
+- [React: Hello World](https://reactjs.org/docs/hello-world.html)
+- [React: Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React: Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [React: Components and Props](https://reactjs.org/docs/components-and-props.html)
+- [React: State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React: Handling Events](https://reactjs.org/docs/handling-events.html)
+- [React: Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React: List and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [React: Forms](https://reactjs.org/docs/forms.html)
+- [React: Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [React: Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [React: An Overview via Videos](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+*Reading for the weekend*:
+
+- [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
