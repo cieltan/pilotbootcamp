@@ -27,6 +27,9 @@ Daily Schedule (subject to change!)
 1:15PM - 2:30PM: Continuation of projects and/or lecture, code-alongs
 
 ---
+## Weekly Reviews
+
+- [Weekly Review #1:](https://drive.google.com/file/d/1G5wGtAn9m2Z6jlBmKDOaEZNAwVSzq9ag/view?usp=sharing)
 
 ## Curriculum Index (Tentative)
 
@@ -44,8 +47,12 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 5: JavaScript DOM Manipulation II | (07/19/2019)
 
+- Class Session 6: Introduction to React and React Components | (07/22/2019)
+
+- Class Session 7: Introduction to External API Requests and ReactJS Continued | (07/22/2019)
+
 <!-- Class Sessions 6 to 20 -->
-~ Class Sessions 6 to 20 ~
+~ Class Sessions 8 to 20 ~
 <!-- Class Sessions 6 to 20 -->
 
 - Class Session 21: CRUD App I | (08/12/2019)
@@ -145,3 +152,33 @@ Collaborative Workflow II | (07/16/2019)
 *Reading for the weekend*:
 
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
+
+**Class Session 6: Introduction to React and React Components (07/22/2019)**
+
+- ['this' Keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) _Highly suggested Reading_
+
+- [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
+
+- [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+
+**Class Session 7: Introduction to External API Requests and ReactJS Continued (07/23/2019)**
+
+- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
+
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) _Suggested Reading_
+
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) _Suggested Reading_
+
+- Lecture slides
+
+  - [AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
+
+  - [Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
+
+  - [React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
+
+  - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
+
+ - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
+
+ - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
