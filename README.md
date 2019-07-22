@@ -29,7 +29,7 @@ Daily Schedule (subject to change!)
 ---
 ## Weekly Reviews
 
-- [Weekly Review #1:](https://drive.google.com/file/d/1G5wGtAn9m2Z6jlBmKDOaEZNAwVSzq9ag/view?usp=sharing)
+- [Weekly Review #1](https://drive.google.com/file/d/1G5wGtAn9m2Z6jlBmKDOaEZNAwVSzq9ag/view?usp=sharing)
 
 ## Curriculum Index (Tentative)
 
@@ -49,7 +49,7 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 6: Introduction to React and React Components | (07/22/2019)
 
-- Class Session 7: Introduction to External API Requests and ReactJS Continued | (07/22/2019)
+- Class Session 7: Introduction to External API Requests and ReactJS Continued | (07/23/2019)
 
 <!-- Class Sessions 6 to 20 -->
 ~ Class Sessions 8 to 20 ~
