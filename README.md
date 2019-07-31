@@ -199,9 +199,19 @@ Collaborative Workflow II | (07/16/2019)
 
 **Class Session 8: Zip/City API Assignment && GIPHY API Assignment Part I | (07/24/2019)**
 
+- [Zip/City API Assignment (Assignment #6)](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+
+- [GIPHY API Assignment (Assignment #7)](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+
 **Class Session 9: Zip/City API Assignment && GIPHY API Assignment Part II | (07/25/2019)**
 
+- [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+
 **Class Session 10: Zip/City API Assignment && GIPHY API Assignment Part III && DOM Challenges III via ReactJS | (07/26/2019)**
+
+- [Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit?usp=sharing)
 
 **Class Session 11: React Router and Client-Side Routing In a Single-Page-Application | (07/29/2019)**
 
