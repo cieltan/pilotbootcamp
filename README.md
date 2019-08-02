@@ -170,6 +170,7 @@ Collaborative Workflow II | (07/16/2019)
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
 **Class Session 6: Introduction to React and React Components (07/22/2019)**
+- [A Deep Dive Into The Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/)
 - ['this' Keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) _Highly suggested Reading_
 
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
@@ -195,8 +196,14 @@ Collaborative Workflow II | (07/16/2019)
   - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
 
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
+ - [Expected Behavior of Exercises Above](https://545q7.codesandbox.io/)
+
+ - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
+
+ - [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
 
  - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+ - [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
 
  - [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
 - [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
