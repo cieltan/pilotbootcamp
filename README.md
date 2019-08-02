@@ -65,8 +65,10 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 14: React-Redux II | (08/01/2019)
 
+- Class Session 15: React-Redux III | (08/02/2019)
+
 <!-- Class Sessions  to 20 -->
-~ Class Sessions 15 to 20 ~
+~ Class Sessions 16 to 20 ~
 <!-- Class Sessions 6 to 20 -->
 
 - Class Session 21: CRUD App I | (08/12/2019)
@@ -220,3 +222,7 @@ Collaborative Workflow II | (07/16/2019)
 **Class Session 13: React-Redux I | (07/31/2019)**
 
 **Class Session 14: React-Redux II | (08/01/2019)**
+
+**Class Session 15: React-Redux III | (08/02/2019)**
+
+- Incorporate React-Redux into Fullstack CRUD App
