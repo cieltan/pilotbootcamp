@@ -170,7 +170,6 @@ Collaborative Workflow II | (07/16/2019)
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
 **Class Session 6: Introduction to React and React Components (07/22/2019)**
-
 - ['this' Keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) _Highly suggested Reading_
 
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
@@ -198,6 +197,10 @@ Collaborative Workflow II | (07/16/2019)
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
 
  - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+
+ - [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+- [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
+- [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
 **Class Session 8: Zip/City API Assignment && GIPHY API Assignment Part I | (07/24/2019)**
 
