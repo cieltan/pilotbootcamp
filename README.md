@@ -67,8 +67,12 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 15: React-Redux III | (08/02/2019)
 
-<!-- Class Sessions  to 20 -->
-~ Class Sessions 16 to 20 ~
+- Class Session 16: Introduction to NodeJS | (08/05/2019)
+
+- Class Session 17: Introduction to ExpressJS | (08/06/2019)
+
+<!-- Class Sessions 18 to 20 -->
+~ Class Sessions 18 to 20 ~
 <!-- Class Sessions 6 to 20 -->
 
 - Class Session 21: CRUD App I | (08/12/2019)
@@ -263,3 +267,23 @@ Collaborative Workflow II | (07/16/2019)
 **Class Session 15: React-Redux III | (08/02/2019)**
 
 - Incorporate React-Redux into Fullstack CRUD App
+
+**Class Session 16: Introduction to NodeJS | (08/05/2019)**
+
+- [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
+
+- [NPM Slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing)
+
+- [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
+
+- [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
+
+- [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
+
+**Class Session 17: Introduction to ExpressJS | (08/06/2019)**
+
+- [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
+
+- [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
