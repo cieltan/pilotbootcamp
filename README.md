@@ -71,9 +71,11 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 17: Introduction to ExpressJS | (08/06/2019)
 
-<!-- Class Sessions 18 to 20 -->
-~ Class Sessions 18 to 20 ~
-<!-- Class Sessions 6 to 20 -->
+- Class Session 18: PostgreSQL/Sequelize I | (08/07/2019)
+
+- Class Session 19: PostgreSQL/Sequelize II | (08/08/2019)
+
+- Class Session 20: CORS and Other Middleware and AJAX | (08/09/2019)
 
 - Class Session 21: CRUD App I | (08/12/2019)
 
@@ -287,3 +289,25 @@ Collaborative Workflow II | (07/16/2019)
 - [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
 
 - [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
+
+**Class Session 18: PostgreSQL/Sequelize I (08/07/2019)**
+
+- [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+- [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+- [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
+- [SQLBolt Tutorial](https://sqlbolt.com/)
+- [SQLZoo Tutorial](https://sqlzoo.net/)
+- [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
+- [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
+
+**Class Session 12: PostgreSQL/Sequelize II (08/08/2019)**
+- [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
+- [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
+- [Node-Postgres](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing)
+- [Introduction To Schemas](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing)
+- [Introduction To ORMs](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing)
+- [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
+- [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
+  - Involves Node, Express, PostgreSQL, and Sequelize
