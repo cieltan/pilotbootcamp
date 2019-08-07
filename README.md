@@ -302,7 +302,7 @@ Collaborative Workflow II | (07/16/2019)
 - [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-**Class Session 12: PostgreSQL/Sequelize II (08/08/2019)**
+**Class Session 19: PostgreSQL/Sequelize II (08/08/2019)**
 - [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
 - [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
 - [Node-Postgres](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing)
@@ -311,3 +311,5 @@ Collaborative Workflow II | (07/16/2019)
 - [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
 - [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
   - Involves Node, Express, PostgreSQL, and Sequelize
+- [Under-The-Hood SQL Statements for Sequelize Queries and Methods](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
+- [Difference Between res.send() and res.json()](https://www.codingdefined.com/2016/06/difference-between-ressend-and-resjson.html)
