@@ -81,7 +81,7 @@ Collaborative Workflow II | (07/16/2019)
 
 - Class Session 22: CRUD App II | (08/13/2019)
 
-- Class Session 23: CRUD App III | (08/14/2019)
+- Class Session 23: CRUD App III, Prep for Capstone | (08/14/2019)
 
 - Class Session 24: Prep for Capstone, PM Tools, Rubric, Capstone Brainstorming, Review | (08/15/2019)
 
@@ -99,7 +99,7 @@ Collaborative Workflow II | (07/16/2019)
 
 ---
 
-## Curriculum (Tentative)
+## Curriculum
 
 **Pre-Bootcamp Material**
 
@@ -313,3 +313,41 @@ Collaborative Workflow II | (07/16/2019)
   - Involves Node, Express, PostgreSQL, and Sequelize
 - [Under-The-Hood SQL Statements for Sequelize Queries and Methods](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - [Difference Between res.send() and res.json()](https://www.codingdefined.com/2016/06/difference-between-ressend-and-resjson.html)
+
+**Class Session 20: CORS and Other Middleware and AJAX | (08/09/2019)**
+- [MDN: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Nuances of Postman](https://learning.getpostman.com/docs/postman/sending_api_requests/proxy/)
+
+**Class Session 21: CRUD App I | (08/12/2019)**
+- Work on CRUD Application
+
+**Class Session 22: CRUD App II | (08/13/2019)**
+- Work on CRUD Application
+
+**Class Session 23: CRUD App III, Prep for Capstone | (08/14/2019)**
+- Work on CRUD Application
+
+**Class Session 24: Prep for Capstone, PM Tools, Rubric, Capstone Brainstorming, Review | (08/15/2019)**
+- Prepare for Capstone
+- Finalize Ideas for Capstone
+
+**Class Session 25: Capstone I | (08/16/2019)**
+- Work on Capstone Project
+
+**Class Session 26: Capstone II | (08/19/2019)**
+- Work on Capstone Project
+
+**Class Session 27: Capstone III | (08/20/2019)**
+- Work on Capstone Project
+
+**Class Session 28: Capstone IV | (08/21/2019)**
+- Work on Capstone Project
+
+**Class Session 29: Capstone V | (08/22/2019)**
+- Work on Capstone Project
+
+**Class Session 30: Demo Day | (08/23/2019)**
+- Exit Assessment for Web Development
+- Exit Assessment for Data Structures and Algorithms
+- Anonymous Survey
+- Presentations from 2:30PM to 4:30PM in HN1516
